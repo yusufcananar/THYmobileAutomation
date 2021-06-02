@@ -1,5 +1,5 @@
 # THYmobile Automation
-Bu repository Appium ile mobil test otomasyonu yapan bir gauge projesidir.
+Bu repository Appium ile mobil test otomasyonu yapan bir gauge projesidir.<br/>
 *THY mobil uygulamasında çeşitli senaryoları koşmak için kullanılabilir.*
 
 ## Test Senaryosu:
