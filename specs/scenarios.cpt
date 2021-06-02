@@ -1,0 +1,45 @@
+Concepts
+
+# THY uygulaması açılır
+* Grant permission
+* Accept Cookies
+
+# Bilet al butonuna tıklanır
+* Buy ticket
+
+# Tek yön uçuş seçilir
+* Pick one way flight
+
+# Yön bilgisi olarak SAW to ESB Seçilir
+* Click From
+* Search "SAW"
+* Click SAW
+* Click To
+* Search "ESB"
+* Click ESB
+
+# Tarih bilgisi günün tarihinden 2 gün sonraya seçilir
+*Click departure date
+*Click the date "2" days after today
+
+# Tamam butonuna tıklanır
+*Click done
+*thread sleep "1"
+
+# Yetişkin bilgisi 2 olarak seçilir
+*Increase adult count by "1"
+
+# Uçuş ara butonuna tıklanır
+*Click Search Flight
+
+# Uçuşların listelendiği kontrol edilir
+*thread sleep "5"
+*Flight list check
+
+# Ekonomik uçuş seçilir
+*Select a Flight
+*Select Eco Flight
+
+# Devam butonuna tıklanır
+*Click Continue
+
